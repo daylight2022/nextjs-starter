@@ -4,9 +4,10 @@ import Footer from '@/components/footer/Footer';
 import Header from '@/components/header/Header';
 import { TailwindIndicator } from '@/components/TailwindIndicator';
 import { ThemeProvider } from '@/components/ThemeProvider';
-import './globals.css';
+import '@/styles/globals.css';
 import { cn } from '@/lib/utils';
 import { siteConfig } from '@/config/site';
+import BaiduAnalytics from './BaiduAnalytics';
 
 export const fontSans = FontSans({
 	subsets: ['latin'],
@@ -36,7 +37,9 @@ export default function RootLayout({
 					<></>
 				) : (
 					<>
-						<div></div>
+						<div>
+							<BaiduAnalytics />
+						</div>
 					</>
 				)}
 			</body>
