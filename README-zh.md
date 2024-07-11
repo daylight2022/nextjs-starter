@@ -2,6 +2,8 @@
 
 这是一个功能丰富的 [Next.js](https://nextjs.org/) 项目启动模板，旨在为快速开发现代全栈应用提供坚实的基础。
 
+![](https://hyacinth-blog.oss-cn-guangzhou.aliyuncs.com/img/screenshot.png)
+
 ## 特性
 
 - 📏 使用 [TypeScript](https://www.typescriptlang.org/) 进行类型安全

@@ -2,6 +2,8 @@
 
 This is a feature-rich [Next.js](https://nextjs.org/) project starter template designed to provide a solid foundation for rapid development of modern full-stack applications.
 
+![](https://hyacinth-blog.oss-cn-guangzhou.aliyuncs.com/img/screenshot.png)
+
 ## Features
 
 - 📏 TypeScript for type safety
